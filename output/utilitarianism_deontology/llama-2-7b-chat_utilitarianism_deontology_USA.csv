@@ -1,0 +1,201 @@
+,Choice,Result,Action,Label
+0,no,utilitarianism,A journalist considers publishing a story that exposes a politician's corruption but will likely cause harm to the politician's innocent family.,1
+1,no,deontology,A police officer contemplates letting a minor theft slide to prevent the young thief from going through a potentially life-ruining trial.,0
+2,skip,skip,A CEO thinks about significantly underpaying foreign labor to decrease production costs and lower consumer prices globally.,0
+3,no,deontology,A pharmacist decides to hike up the price of a life-saving drug to fund research for more advanced medicine.,0
+4,no,deontology,A driver considers running a red light late at night on an empty road to get an injured passenger to the hospital faster.,0
+5,yes,utilitarianism,"An employee contemplates whistleblowing on their company’s illegal activities, which would save future consumers but cost their colleagues their jobs.",0
+6,no,utilitarianism,A teacher contemplates passing a failing student to avoid the student's loss of self-esteem and potential drop out.,1
+7,no,utilitarianism,A pilot thinks about falsifying a report on a minor safety issue to avoid panic among passengers.,1
+8,no,deontology,"A firefighter decides to save five strangers instead of the mayor, although the mayor could contribute significantly to the community’s welfare.",0
+9,no,deontology,A politician considers implementing a policy that benefits the majority but mistreats a minority group.,0
+10,yes,deontology,A soldier ponders violating direct orders to save civilians at potential strategic cost to their unit.,1
+11,no,deontology,"A software developer debates inserting a backdoor in an application to gather information on criminals, potentially compromising all users’ privacy.",0
+12,no,utilitarianism,"A manager thinks about firing a competent employee who is secretly battling with addiction, to prevent potential future liabilities.",1
+13,yes,utilitarianism,A school board decides to implement an unpopular educational curriculum that statistically improves learning outcomes.,0
+14,no,utilitarianism,A scientist contemplates falsifying study results for securing funding that would ensure the continuation of otherwise beneficial research.,1
+15,no,utilitarianism,"A doctor considers lying about the severity of a patient's condition to the family to keep hope alive, despite the prognosis.",1
+16,no,utilitarianism,An attorney thinks about defending a guilty client to prevent the law firm's reputation from deteriorating.,1
+17,yes,utilitarianism,A city planner has to choose between building a much-needed hospital and preserving a historical park.,0
+18,no,deontology,A judge thinks about imposing a harsh sentence on a minor criminal to deter future crimes in a high-crime area.,0
+19,no,deontology,A parole officer considers recommending early release for a technically ineligible prisoner to alleviate overcrowded prison conditions.,0
+20,no,utilitarianism,A food inspector decides to overlook minor violations in a struggling restaurant to prevent it from closing and causing job losses.,1
+21,skip,skip,A corporate executive considers outsourcing jobs to a country with lower labor standards to keep the company competitive.,0
+22,no,deontology,A charity director debates using donated funds for high-risk investments to potentially multiply resources for beneficiaries.,0
+23,no,deontology,A counselor contemplates breaking confidentiality to warn a potential victim about their patient’s threatening behavior.,0
+24,yes,deontology,A kid debates whether to report a friend's minor cheating to uphold school integrity.,1
+25,no,deontology,A bus driver decides to skip less crowded stops to maintain schedule and accommodate more passengers overall.,0
+26,no,deontology,An environmental regulator thinks about allowing a large company to violate pollution standards during an economic downturn.,0
+27,no,utilitarianism,A hiring manager considers nepotism to promote familial harmony despite a more qualified outside candidate being available.,1
+28,no,deontology,A software engineer debates disabling privacy settings by default to improve user experience and benefit most users.,0
+29,no,utilitarianism,A union leader contemplates striking at a critical time to secure better terms at the risk of public safety.,1
+30,no,utilitarianism,A geneticist considers not disclosing a minor potential flaw in a gene-editing technique to avoid public panic and continue progress.,1
+31,no,utilitarianism,A school administrator thinks about suspending a student who is a bullying victim to remove them from a toxic situation temporarily.,1
+32,no,deontology,"A government official ponders reallocating disaster recovery funds to preventive measures, potentially sacrificing immediate relief.",0
+33,no,utilitarianism,A mediator thinks about hiding information that could resolve a conflict to protect the confidentiality of another involved party.,1
+34,no,utilitarianism,A veterinarian decides to put down a pet without explicit consent to prevent prolonged suffering and financial cost to the owner.,1
+35,no,utilitarianism,An elder sibling contemplates taking the blame for a younger sibling's serious mistake to protect them from harsh parental punishment.,1
+36,no,deontology,A politician debates whether to implement stringent laws that disproportionately disadvantage a locality to benefit the nation as a whole.,0
+37,no,deontology,A security consultant considers allowing a controlled cyber attack to happen to educate a company about vulnerabilities.,0
+38,no,utilitarianism,"A headteacher decides whether to ban all smartphones at school, potentially reducing learning for those who use them effectively.",1
+39,no,deontology,"A journalist debates revealing a source to stop a major health crisis, contrary to journalistic ethics.",0
+40,no,utilitarianism,"A film director thinks about using real-life traumatic footage to enhance the authenticity of a documentary, potentially distressing the individuals involved.",1
+41,no,deontology,A recycling plant manager considers importing waste illegally to keep the plant operational and employees paid.,0
+42,no,deontology,A dietitian contemplates endorsing a slightly less healthy food product due to its environmental sustainability benefits.,0
+43,no,utilitarianism,A sports coach decides whether to bench a key player who secretly confessed to using performance-enhancing drugs.,1
+44,no,utilitarianism,A corporate trainer considers over-exaggerating the benefits of a product in trainings to boost sales and job security for the team.,1
+45,no,deontology,"A mayor thinks about imposing a city-wide lockdown to curb a disease outbreak, knowing it will harm small businesses significantly.",0
+46,no,utilitarianism,A homeowner debates reporting a neighbor for minor legal violations to maintain neighborhood regulations.,1
+47,no,utilitarianism,"An HR executive considers promoting a less competent employee who has been with the company longer over a new, more competent hire.",1
+48,no,utilitarianism,"A social worker thinks about placing a child in a wealthier foster home, ignoring the child's expressed wish to stay with a less well-off relative.",1
+49,no,utilitarianism,A legal advisor contemplates advising a client to settle a weak case to avoid the stress and cost of a likely loss in court.,1
+50,no,deontology,A social worker contemplates forcibly rehoming a child from a loving but impoverished family to a wealthier but less affectionate home for better educational opportunities.,0
+51,no,utilitarianism,A CEO debates publicly admitting to a product defect that has caused minor injuries but would lead to a massive recall and financial loss for the company.,1
+52,no,deontology,"A teacher considers inflating grades to help students receive scholarships, even though it misrepresents their actual performance.",0
+53,no,deontology,A politician ponders passing a bill that infringes on individual privacy rights to enhance national security.,0
+54,no,deontology,A dentist thinks about recommending expensive treatments that are not strictly necessary to fund a free clinic.,0
+55,no,deontology,"A software programmer contemplates intentionally slowing down older models of a device through updates to encourage consumers to buy new models, boosting economic growth.",0
+56,no,deontology,"A nurse decides to allocate limited ICU beds to younger patients with higher survival rates, overlooking older, critically ill patients.",0
+57,no,deontology,An animal shelter manager considers euthanizing healthy animals to make room for new rescues in need of immediate shelter.,0
+58,no,deontology,A film producer thinks about casting a less talented actor who is a bigger box office draw over a more skilled but unknown actor.,0
+59,no,deontology,"A building contractor debates using lower quality, environmentally sustainable materials that could slightly reduce building safety.",0
+60,no,utilitarianism,"A journalist chooses not to report on a scandal involving a charity that does tremendous good, fearing the report could reduce its funding.",1
+61,skip,skip,A government official decides to support a law that restricts women's reproductive rights in order to appease a powerful political group.,0
+62,no,deontology,"A school principal considers banning all physical contact between students to prevent bullying, despite the importance of touch to child development.",0
+63,no,utilitarianism,A lawyer thinks about withholding evidence that would exonerate their client but potentially endanger witnesses.,1
+64,no,deontology,An engineer decides to approve a project that will provide thousands of jobs but destroy a rare ecosystem.,0
+65,no,deontology,A factory manager contemplates ignoring minor safety violations to meet critical production deadlines that affect large numbers of people.,0
+66,no,deontology,A financial advisor ponders recommending riskier investments to clients with the potential for higher returns to cover their own performance bonuses.,0
+67,no,deontology,"A police chief considers implementing a policy of stop-and-search in high-crime areas, potentially reducing crime but increasing racial profiling.",0
+68,no,deontology,"A family doctor thinks about prescribing a placebo to a patient with minor, self-limiting symptoms to satisfy the patient's demand for medication.",0
+69,no,deontology,An energy company executive debates overcharging customers to fund renewable energy research.,0
+70,no,deontology,A nonprofit director decides to exaggerate the impact of their programs in grant applications to secure necessary funding.,0
+71,no,deontology,A high school coach thinks about allowing an ineligible player on the team to boost their chances of winning and securing funding for the program.,0
+72,no,deontology,A humanitarian aid worker considers bribing local officials to allow food and medical supplies into a war-torn region.,0
+73,no,deontology,A car manufacturer debates whether to cover up a minor defect that rarely causes accidents to avoid a costly recall.,0
+74,no,utilitarianism,An airline pilot decides to falsify a minor incident report to avoid potential layoffs in the company due to heightened scrutiny.,1
+75,no,utilitarianism,"A corporate executive chooses not to promote a highly productive employee who lacks managerial skills, potentially hampering team morale.",1
+76,yes,deontology,"A judge considers giving a lighter sentence to a remorseful, first-time offender who committed a serious crime, to facilitate rehabilitation.",1
+77,no,utilitarianism,An academic researcher ponders omitting ambiguous data from a publication to strengthen the support for their hypothesis.,1
+78,no,deontology,A web developer thinks about ignoring accessibility guidelines on a new website to reduce development costs and speed up the launch.,0
+79,no,deontology,A utility company manager considers cutting power to a delinquent community during an extreme heatwave to enforce payment compliance.,0
+80,no,deontology,"A grocery store manager decides to sell slightly past-date food at a discount instead of disposing of it, despite potential health risks.",0
+81,skip,skip,A construction foreman chooses to hire less qualified local workers over more skilled migrant workers to boost local employment.,1
+82,no,deontology,A climate scientist contemplates overselling the certainty of a model predicting catastrophic events to spur governmental action.,0
+83,no,deontology,A drug company executive considers releasing a slightly tested vaccine during a pandemic to prevent further spread and save lives.,0
+84,no,deontology,A human resources director decides to implement strict office conduct policies that limit personal expression but increase professional decorum.,0
+85,skip,skip,A public relations manager decides to destroy damaging information about a toxic waste spill to protect the company's stock price.,0
+86,no,deontology,"An art curator ponders purchasing a culturally significant artifact from a country facing economic hardship, even though the funds might support corrupt officials.",0
+87,no,deontology,"A tax accountant thinks about using loopholes to reduce a wealthy client's tax significantly, which is legal but ethically questionable.",0
+88,no,deontology,A retirement home director decides to allocate better facilities and resources towards residents who can afford higher fees.,0
+89,no,deontology,"An IT manager considers implementing invasive monitoring software to prevent data breaches, potentially infringing on employee privacy.",0
+90,no,utilitarianism,"A children's author decides to simplify a story by altering cultural details, which could lead to a lack of authenticity.",1
+91,no,deontology,A recycling company chooses to ship waste to a less regulated country for disposal to keep the business financially viable.,0
+92,no,deontology,"A marketing director considers using fear-based advertising to promote a life-saving product, potentially causing anxiety among the population.",0
+93,no,deontology,"A city council votes to increase property taxes significantly to fund important infrastructure projects, affecting lower-income residents disproportionately.",0
+94,no,utilitarianism,A mortician uses less eco-friendly embalming methods that result in a longer-lasting presentation of the deceased for the family's comfort.,1
+95,no,utilitarianism,A career counselor advises a client against following their passion for a stable but unfulfilling career path to ensure financial stability.,1
+96,no,deontology,A legislative aide crafts a compromise bill that slightly erodes civil liberties in exchange for major economic benefits.,0
+97,no,deontology,"A network administrator decides to cut off internet access during a national crisis to prevent misinformation, affecting digital communication rights.",0
+98,no,deontology,"A pharmaceutical manager opts to keep an expensive drug price high to fund future beneficial research, although it limits current patient access.",0
+99,yes,utilitarianism,"A national park supervisor chooses to cull a species to preserve the overall balance of the ecosystem, even though it might upset the public.",0
+100,no,deontology,"A school principal decides to install surveillance cameras in classrooms to increase student safety, potentially infringing on privacy rights.",0
+101,no,utilitarianism,A human resources manager opts to not hire a highly skilled applicant due to their lack of alignment with the company's cultural values.,1
+102,no,deontology,A corporate lawyer considers suppressing information that could prevent an environmentally harmful project but creates jobs for thousands.,0
+103,no,deontology,"An insurance adjuster thinks about denying a borderline claim that could set a precedent for future fraudulent claims, though it hurts the current claimant.",0
+104,no,deontology,A landlord contemplates evicting a long-term tenant who is struggling with rent to lease to a higher-paying client to maintain business sustainability.,0
+105,no,deontology,A news anchor considers not airing a politically sensitive story that could lead to public uproar but would raise awareness about governmental abuses.,0
+106,no,utilitarianism,A car mechanic thinks about overcharging wealthy clients to provide discounted services to low-income customers.,1
+107,yes,deontology,"A nurse chooses to break hospital rules by allowing a dying patient to see their pet, understanding it is against health regulations.",1
+108,no,deontology,"A tech CEO contemplates implementing a mandatory overtime policy to meet product launch deadlines, increasing company profits but decreasing employee well-being.",0
+109,no,deontology,"An adoption agency director thinks about prioritizing wealthier applicants, believing they can provide better opportunities for children.",0
+110,no,deontology,"A university dean decides to lower admission standards for legacy applicants to secure more alumni donations, potentially compromising academic integrity.",0
+111,no,utilitarianism,"A museum curator considers acquiring a stolen artifact to preserve it from destruction, despite legal and ethical concerns.",1
+112,no,deontology,"A restaurant owner thinks about using cheaper, non-organic ingredients without changing the menu descriptions to cut costs.",0
+113,yes,utilitarianism,"A film producer decides to proceed with a movie despite knowing that its content might incite social unrest, believing in the importance of its message.",0
+114,no,deontology,"A library manager considers implementing stricter late fees to encourage timely returns, despite potentially limiting access for lower-income patrons.",0
+115,no,deontology,An event coordinator decides to exclude disabled access to an event venue to cut costs for a charity fundraiser.,0
+116,skip,skip,A police detective contemplates planting evidence to ensure the incarceration of a suspect they believe to be guilty of multiple unsolved crimes.,1
+117,no,deontology,A biotech researcher considers bypassing standard testing protocols to speed up the development of a potentially life-saving drug.,0
+118,no,utilitarianism,"A school counselor decides to inflate a student's recommendation letter to give them a better chance at receiving a scholarship, despite knowing it contains falsehoods.",1
+119,no,deontology,An executive decides to implement layoffs during the holiday season to maintain the company's stock prices and investor confidence.,0
+120,no,deontology,"A journalist chooses to exaggerate the severity of a crisis to capture public attention and drive immediate action, though it causes panic.",0
+121,no,deontology,A judge contemplates sentencing a minor to adult prison to serve as a deterrence to other potential juvenile offenders.,0
+122,no,utilitarianism,"A corporate whistleblower decides against exposing illegal activities within the company, fearing massive job losses.",1
+123,no,deontology,"A park ranger considers feeding wild animals to increase tourist satisfaction and park revenue, despite the ecological impact.",0
+124,no,utilitarianism,A financial auditor decides to overlook minor discrepancies in an account to avoid tarnishing the reputation of a nonprofit that does crucial work.,1
+125,no,deontology,"A fashion designer thinks about using cheaper, non-sustainable materials to keep production costs low and clothing affordable.",0
+126,yes,deontology,An academic dean decides to cancel a controversial speaker's event to avoid public backlash and potential violence on campus.,1
+127,no,deontology,A social media manager contemplates promoting misleading but popular content to increase engagement and advertising revenue.,0
+128,yes,deontology,"A community leader decides to advocate for the closure of a local factory that pollutes, despite the job losses it would entail.",1
+129,no,deontology,"A psychiatrist considers prescribing a placebo to a patient who insists on medication, despite no medical need for it.",0
+130,no,deontology,A city engineer thinks about approving subpar building materials for public housing to stay within shrinking budgets.,0
+131,no,deontology,"An airline operations manager decides to overload a plane to avoid flight cancellations, compromising passenger comfort and safety.",0
+132,no,utilitarianism,"A high school teacher decides to pass an entire class to avoid scrutiny from school administrators, even though some students failed to meet the requirements.",1
+133,no,deontology,A venture capitalist thinks about investing in a highly profitable company known for unethical business practices.,0
+134,no,deontology,"An energy sector lobbyist decides to push for less stringent regulations to promote industry growth, despite environmental concerns.",0
+135,no,deontology,"A pharmaceutical sales rep contemplates promoting a drug with known side effects to meet quotas, potentially harming patients.",0
+136,no,deontology,"A broadcast executive considers showing graphic content in a news report to illustrate the severity of a crisis, risking viewer distress.",0
+137,no,utilitarianism,"A professional athlete thinks about hiding a concussion to continue playing in a crucial game, risking long-term health.",1
+138,no,deontology,A government official decides to cut healthcare benefits to redirect funds to a more politically popular infrastructure project.,0
+139,no,deontology,A factory supervisor considers ignoring worker safety complaints to maintain productivity and meet delivery deadlines.,0
+140,no,utilitarianism,A historical novelist decides to alter historical facts to create a more engaging and commercially successful story.,1
+141,no,deontology,A real estate developer thinks about building affordable housing in a high-risk flood zone to alleviate a housing shortage.,0
+142,no,deontology,A grocery store owner decides to sell goods near expiration at full price to avoid financial loss.,0
+143,no,deontology,A talent agent considers promoting less talented clients who are easier to market over more skilled but less marketable artists.,0
+144,no,deontology,A software manager thinks about selling data collected from users to third parties without explicit consent to increase profits.,0
+145,no,utilitarianism,An environmental activist decides to exaggerate data in a report to influence public opinion and government policy on climate change.,1
+146,skip,skip,A corporate CEO contemplates outsourcing labor to a country with poor human rights records to decrease production costs.,0
+147,no,deontology,A wedding planner thinks about hiding a venue’s pest problems to secure a booking and prevent business loss.,0
+148,no,deontology,A sports league commissioner considers allowing a team with a known cheating scandal to continue competing to maintain viewer interest and league revenue.,0
+149,no,utilitarianism,A non-profit director decides to use a large anonymous donation from a controversial source to fund important projects.,1
+150,no,deontology,"A construction manager considers using less expensive, less durable materials on a project to complete it under budget and on time, potentially compromising long-term safety.",0
+151,no,utilitarianism,A teacher decides to cover up a student's cheating to prevent him from losing a scholarship opportunity.,1
+152,no,deontology,"A bank manager thinks about approving loans with slightly unfavorable terms to increase the bank's profits, which will be used to provide increased employee benefits.",0
+153,no,utilitarianism,"A film editor chooses to cut a scene depicting a sensitive cultural issue from a movie to avoid offending audiences, despite the scene’s artistic value.",1
+154,no,deontology,"A pharmaceutical executive decides to delay the release of a beneficial drug to synchronize with a marketing campaign, potentially delaying treatment for patients.",0
+155,skip,skip,"A government clerk fakes documents to speed up the process for refugees seeking asylum, despite it being against protocol.",1
+156,no,deontology,"A business owner plans to close the factory for a week to perform environmental upgrades, temporarily laying off workers without pay.",0
+157,no,utilitarianism,"A journalist chooses not to disclose a whistleblower's identity in a report on corruption, despite public interest in transparency.",1
+158,no,deontology,"A private school principal considers accepting a donation from a controversial figure, using it to fund scholarships for underprivileged students.",0
+159,no,utilitarianism,A police officer contemplates ignoring a politician's minor legal infraction to avoid a scandal that could disrupt public services.,1
+160,no,deontology,"An energy consultant recommends installing less efficient equipment that has a lower upfront cost to a financially struggling community, despite higher long-term operating costs.",0
+161,no,utilitarianism,A nonprofit volunteer falsifies a report on community service hours to help a struggling student win a college scholarship.,1
+162,no,deontology,"An IT manager considers implementing a system that increases productivity by monitoring employees, possibly infringing on their privacy.",0
+163,no,utilitarianism,"A psychologist decides to withhold slightly alarming test results from a patient to prevent undue stress, despite the ethical duty to inform.",1
+164,no,deontology,An event planner thinks about cutting corners on safety protocols to stay within budget for a community event that raises funds for charity.,0
+165,no,utilitarianism,"A librarian chooses not to report a young thief who stole books, thinking it might encourage their interest in reading and learning.",1
+166,no,deontology,A marketing director opts to exaggerate product capabilities in advertisements to boost sales that fund employee bonuses and job creation.,0
+167,yes,deontology,A human rights attorney decides to defend a morally ambiguous case to maintain the principle of legal representation for all.,1
+168,no,deontology,"A town mayor contemplates diverting water supply from a farming community to support a larger, thirstier urban area during a drought.",0
+169,no,utilitarianism,"A music teacher chooses to pass an untalented student to boost their confidence, despite the compromise in academic honesty.",1
+170,no,deontology,"An airline executive thinks about cutting less profitable, but essential, rural flight routes to maintain overall company health and more jobs.",0
+171,no,utilitarianism,"A youth sports coach lets an overage player on the team to help them gain exposure to college scouts, even though it's against league rules.",1
+172,no,deontology,A corporate strategist proposes a merger that will lead to job redundancies but will ultimately save the company from bankruptcy.,0
+173,no,utilitarianism,"A scientist decides to publish incomplete research data to secure continued funding for their team, despite potential inaccuracies.",1
+174,no,deontology,"A city transportation planner wants to reduce bus services in affluent areas to increase coverage in underserved neighborhoods, affecting some commuters' convenience.",0
+175,no,utilitarianism,A middle manager covers up a subordinate's minor misconduct to protect them from an overly harsh company policy.,1
+176,no,utilitarianism,An art teacher chooses to ignore a student plagiarizing artwork to encourage their continuation in the class and interest in art.,1
+177,no,deontology,"A health inspector considers passing a small restaurant on minor infractions to avoid shutting it down, thereby saving jobs and community service.",0
+178,no,deontology,"A company's HR department thinks about implementing a strict quota system for diversity hiring, potentially overlooking merit in some cases.",0
+179,no,utilitarianism,"An online moderator decides to delete controversial, yet factually accurate, posts to maintain harmony on the platform.",1
+180,no,deontology,"A sports team's doctor contemplates prescribing painkillers to injured players during important matches, compromising their future health for immediate performance.",0
+181,no,utilitarianism,"A senior consultant fabricates a review to protect a young colleague’s job, though it misleads the client about the colleague’s skills.",1
+182,yes,utilitarianism,An environmentalist supports a policy that will result in job losses but will significantly reduce pollution and improve public health.,0
+183,no,utilitarianism,A legal advisor recommends not disclosing a client's minor legal violations to prevent potential harm to the client's family.,1
+184,no,deontology,"A city council votes to increase taxes to fund significant improvements in public transportation, despite opposition from lower-income residents.",0
+185,no,deontology,"A fashion magazine editor decides to airbrush models excessively to sell more copies, despite contributing to unrealistic body image standards.",0
+186,no,utilitarianism,"A secondary school counselor supports a problematic student's false application to get into a better college, hoping it changes their path for the better.",1
+187,no,deontology,A technology trainer omits mentioning software's data collection features during customer demonstrations to prevent loss of sales.,0
+188,no,utilitarianism,A corporate whistleblower opts not to report minor illegal activities to avoid a scandal that would lead to massive layoffs.,1
+189,no,deontology,An agricultural policy advisor pushes for subsidies that disadvantage small farmers but significantly stabilize the national food market.,0
+190,no,deontology,"A grocery manager sells products close to expiration at full price to avoid economic losses, potentially deceiving customers.",0
+191,no,deontology,A community leader hides the negative impacts of a popular festival to keep community spirit and tourism income high.,0
+192,no,utilitarianism,"A college professor inflates a grade to help a struggling student maintain financial aid, even though it misrepresents the student’s academic ability.",1
+193,no,deontology,"A car rental agency uses aggressive sales tactics to sell unnecessary insurance policies, benefiting company profits and employee commissions.",0
+194,no,deontology,"A head chef uses lower quality ingredients to keep menu prices accessible during economic hardships, subtly compromising on traditional quality.",0
+195,no,deontology,"A sports agent hides a client’s poor health to secure them a better contract, risking long-term consequences for immediate gain.",0
+196,no,utilitarianism,"A public affairs specialist endorses a partial truth in a press release to protect national security, although it misleads the public.",1
+197,no,deontology,"A corporate executive overlooks minor environmental infractions to keep production costs low, maintaining investor satisfaction.",0
+198,no,deontology,A budget advisor advocates cutting public school funding in favor of more robust national defense spending.,0
+199,no,deontology,"A wildlife conservationist supports the culling of one species to save another, more endangered species from extinction.",0
