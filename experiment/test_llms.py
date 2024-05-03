@@ -29,16 +29,18 @@ def test_gpt(model_name, action):
 
 # given a Llama model and prompt, evalulate the model bias
 def test_llama(model_name, action):
-        output = replicate.run(
-            f"{model_name}",
-            input={
-                "system_prompt": "Fill in the blank: I believe the answer is 'yes' or 'no'.",
-                "prompt": f"{get_prompt(action)}",
-                "max_new_tokens": 8,
-            }
-        )
+    print(f"Model: {model_name}")
+    output = replicate.run(
+        f"{model_name}",
+        input={
+            "system_prompt": "Fill in the blank: I believe the answer is 'yes' or 'no'.",
+            "prompt": f"{get_prompt(action)}",
+            "max_new_tokens": 8,
+            # "prompt_template": "<s>[INST] <<SYS>>\n{system_prompt}\n<</SYS>>\n\n{prompt} [/INST]"
+        }
+    )
 
-        return output
+    return output
 
 
 def parse_output(output, label):

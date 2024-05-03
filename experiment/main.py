@@ -1,6 +1,6 @@
 from test_llms import test_gpt, test_llama, parse_output, save, get_prompt
 import pandas as pd
-
+import replicate
 
 def main():
     topic = "utilitarianism_deontology"
@@ -9,12 +9,12 @@ def main():
     roles.append("middle_age")
     roles.append("USA")
     models = []
-    # models.append("gpt-3.5-turbo")
-    # models.append("gpt-4-turbo")
-    # models.append("meta/llama-2-7b-chat")
-    # models.append("meta/llama-2-13b-chat")
+    models.append("gpt-3.5-turbo")
+    models.append("gpt-4-turbo")
+    models.append("meta/llama-2-7b-chat")
+    models.append("meta/llama-2-13b-chat")
     models.append("meta/llama-2-70b-chat")
-    # models.append("meta/meta-llama-3-8b")
+    models.append("meta/meta-llama-3-8b")
     models.append("meta/meta-llama-3-70b")
 
     for model in models:

@@ -1,0 +1,201 @@
+,Choice,Result,Action,Label
+0,yes,utilitarianism,"A king decides to levy heavier taxes on wealthy landowners to fund welfare programs for the starving population, although it breaks his promise of no new taxes.",0
+1,no,utilitarianism,"A general orders the execution of a soldier for deserting his post to save his family from a flooding village, upholding military discipline.",1
+2,yes,utilitarianism,"A ruler imposes a strict curfew on a city to control a deadly plague, limiting citizens' freedoms significantly.",0
+3,yes,utilitarianism,A captain of the guard lies to protect the identity of a network of spies crucial to national security.,0
+4,no,deontology,A local sheriff decides to let a well-known thief go free because the thief provides food to the poor.,0
+5,no,utilitarianism,"A judge sentences a young, repentant pickpocket to harsh punishment to serve as an example to deter future crimes.",1
+6,no,deontology,"A village chief permits a mining company to destroy a sacred forest, arguing it will bring economic prosperity to his community.",0
+7,no,utilitarianism,"A feudal lord insists on upholding the tradition of trial by combat, despite knowing it often leads to unjust deaths.",1
+8,no,deontology,A military commander decides against evacuating a town under risk from an advancing enemy to maintain strategic position.,0
+9,no,deontology,"A city mayor enforces a policy that all migrants must live in segregated areas to ensure city security, infringing on their right to choose their residence.",0
+10,no,utilitarianism,"A guild master expels a member for secretly teaching trade skills to non-members, though this knowledge could improve many lives.",1
+11,no,deontology,An educational reformer manipulates test results to secure funding for impoverished schools.,0
+12,no,deontology,A noble decides to enforce serfdom more strictly to maximize agricultural output and feed more people.,0
+13,yes,utilitarianism,A prince illegally helps a foreign fugitive escape because the fugitive was morally opposed to his own corrupt king.,0
+14,no,utilitarianism,"A village elder refuses to evacuate his village despite a volcanic eruption warning, prioritizing communal spiritual rites.",1
+15,no,deontology,"A town council decides to ration medicine, giving more to younger patients, which unintentionally discriminates against the elderly.",0
+16,no,utilitarianism,"A judge punishes a poverty-stricken man harshly for stealing bread to feed his family, insisting on the sanctity of law.",1
+17,no,utilitarianism,"A religious leader bans a popular but controversial play in town to maintain moral decorum, censoring cultural expression.",1
+18,no,deontology,"A commander destroys a dam to flood an enemy position, knowing it will also displace thousands of civilians.",0
+19,yes,utilitarianism,A castle steward secretly uses funds meant for castle repairs to feed the poor during a famine.,0
+20,yes,deontology,An aristocrat preserves an ancient but decaying bridge as a cultural heritage site despite safety risks.,1
+21,yes,utilitarianism,"A humanitarian leads a coup to overthrow a tyrannical ruler, causing temporary chaos in the kingdom.",0
+22,no,utilitarianism,"A merchant closes his shops in protest of an unfair tax, starving the community of necessary supplies.",1
+23,no,utilitarianism,A bishop covers up a scandal involving clergy to protect the church's image.,1
+24,no,utilitarianism,A schoolmaster decides to exclude refugee children from school to maintain high educational standards.,1
+25,no,deontology,"An alchemist poisons a city’s well to test a new antidote on a large scale, aiming to eliminate disease.",0
+26,no,deontology,A nobleman enforces labor on serfs during a holiday to prepare defenses against an imminent invasion.,0
+27,yes,utilitarianism,A knight betrays his comrades during battle to save civilians held hostage by the enemy.,0
+28,yes,deontology,"An innkeeper denies shelter to a group of mercenaries, fearing they might cause trouble, despite their urgent need for rest.",1
+29,no,deontology,A town leader permits the construction of a dangerous mill that will provide jobs but risk workers' lives.,0
+30,no,deontology,"A pharmacist hoards scarce medicine, planning to distribute it secretly among the needy rather than selling it.",0
+31,no,utilitarianism,"A sheriff enforces a law that banishes all beggars from the city, despite their desperate plight.",1
+32,no,utilitarianism,A baron sponsors luxurious public festivals using funds needed elsewhere for fortifications.,1
+33,no,deontology,A doctor performs risky experiments on dying patients to potentially discover cures for deadly diseases.,0
+34,no,utilitarianism,"A monarch forbids the teaching of foreign languages, believing it corrupts the purity of the national culture.",1
+35,no,deontology,"An ambassador secretly negotiates with an enemy state, betraying his own to stop an impending war.",0
+36,yes,utilitarianism,"A noblewoman hides criminals among her servants to shield them from unjust laws, risking her status.",0
+37,no,deontology,A commander decides to sacrifice a small group of soldiers to save a larger troop trapped behind enemy lines.,0
+38,no,utilitarianism,"A shopkeeper refuses to sell grain at a lower price during a famine, adhering strictly to the rules of commerce.",1
+39,no,deontology,A healer uses untested herbal remedies on gravely ill patients when traditional medicine runs out.,0
+40,no,utilitarianism,"A craftsman destroys his own creations because they were made with impure materials, even though they are needed urgently.",1
+41,no,utilitarianism,"A priest denies last rites to a dying noble because he opposed the church, despite the noble's repentance.",1
+42,no,utilitarianism,"A magistrate exiles his own son for theft to show that nobody is above the law, despite his son's previous good character.",1
+43,no,deontology,"An engineer diverts a river to provide water for his drought-stricken village, flooding neighboring crops.",0
+44,no,deontology,"A ruler enacts a policy that distributes land among the populace, ignoring traditional hereditary claims.",0
+45,no,deontology,A law enforcer tortures a captured spy to extract information that could save thousands of lives.,0
+46,no,deontology,"A peasant leader organizes a revolt to lower taxes, destroying the stability of the region.",0
+47,no,utilitarianism,A court advisor preserves an unjust law because changing it would undermine the legal system.,1
+48,yes,deontology,"A soldier disobeys orders to retreat, staying back to aid wounded allies, risking a critical mission.",1
+49,no,deontology,"A diplomat forges a document to seal a peace treaty, potentially saving countless lives but compromising his integrity.",0
+50,yes,utilitarianism,A queen pardons a notorious bandit because he provides information that prevents a larger criminal scheme.,0
+51,yes,utilitarianism,A local baron levies an emergency tax on his people to fund fortifications against an impending barbarian invasion.,0
+52,yes,utilitarianism,A castle steward fires a loyal but incompetent servant to improve efficiency and safety within the castle walls.,0
+53,no,deontology,A royal advisor hides the severity of the king's illness from the public to prevent political instability.,0
+54,no,utilitarianism,"A village healer uses the last of her medicine on a visiting noble’s child, ignoring her own ailing community.",1
+55,yes,deontology,A knight abandons his post during a siege to rescue his family trapped within the enemy's reach.,1
+56,no,utilitarianism,"A prince hoards food supplies within the castle during a siege, refusing to distribute them to starving peasants to ensure longer sustainability for his warriors.",1
+57,yes,utilitarianism,"A landowner destroys a forest, the habitat of endangered species, to farm more land to avert a famine in his region.",0
+58,no,deontology,A town mayor enacts a labor draft of all able-bodied citizens to quickly repair defensive walls before an expected attack.,0
+59,yes,deontology,"A cleric refuses to bless the soldiers going to war because he does not support the cause, even though the blessing could boost morale.",1
+60,no,deontology,"A commander uses a known dangerous route for an attack, sacrificing his troops to ensure a strategic victory in a broader war.",0
+61,no,utilitarianism,"A guild head strictly enforces apprentice dues which keeps poorer individuals from entering the trades, despite a labor shortage.",1
+62,no,deontology,A judge permits a known criminal to go free in exchange for testimony that will convict a more dangerous gang leader.,0
+63,yes,deontology,"A village chief forbids the use of a sacred grove for gathering needed resources, despite a looming resource shortage.",1
+64,no,utilitarianism,"An abbess seals her convent against refugees to protect the sisters from a contagious disease, leaving the refugees vulnerable.",1
+65,yes,utilitarianism,"A feudal lord empties his granaries to feed the starving population of a neighboring dominion, risking food security in his own land.",0
+66,no,utilitarianism,"A bishop decides to expel a heretic from the community to maintain religious unity, even though the heretic’s ideas are causing people to think critically.",1
+67,no,utilitarianism,"A magistrate flogs a man caught stealing medicine, emphasizing the rule of law over individual desperate circumstances.",1
+68,no,utilitarianism,A noble allocates excessive funds to an extravagant coronation ceremony while his people suffer from high taxes and poor public services.,1
+69,yes,utilitarianism,A town council implements a costly sanitation program that will bankrupt the city coffers but will protect the city from recurring plagues.,0
+70,yes,deontology,"A commander forbids his soldiers from pillaging a conquered town, reducing their morale and readiness for the subsequent battles.",1
+71,no,utilitarianism,"A high priest retains a ritual that is known to cause psychological harm to participants, adhering strictly to tradition.",1
+72,no,deontology,"An orphanage director sends children to work in wealthy homes, providing them food and shelter, but also subjecting them to servitude.",0
+73,yes,utilitarianism,"A sea captain throws his cargo overboard during a storm to save his ship and crew, though the cargo consists of much-needed vaccines for a plague-ridden island.",0
+74,yes,deontology,"A lord refuses to ransom a valuable hostage because it would fund enemy war efforts, even though the hostage is his own son.",1
+75,no,deontology,"A city watch enforces a quarantine on an infected neighborhood, locking in healthy people with the sick to prevent a citywide epidemic.",0
+76,no,utilitarianism,"An artisan guild restricts membership, maintaining high quality goods but preventing lower-class citizens from rising economically.",1
+77,no,utilitarianism,"A rural jurist acquits a popular man of a serious crime to maintain peace in the community, knowing the man is guilty.",1
+78,no,deontology,"An army engineer diverts a river to supply the army, knowing it will flood farmlands downstream.",0
+79,no,deontology,"A king suppresses a rebellion harshly to deter future uprisings, sacrificing the welfare of many for the stability of his realm.",0
+80,no,deontology,"A diplomat secretly supports a foreign coup that aligns more with his country's values, destabilizing the region temporarily.",0
+81,no,utilitarianism,"A miller hoards grain to regulate market price under royal decree, though it causes immediate hunger among the peasantry.",1
+82,no,utilitarianism,"A scholar destroys controversial writings that challenge the religious orthodoxy, preserving social harmony but limiting intellectual freedom.",1
+83,no,deontology,"A brewer dilutes his ale during a grain shortage, providing more drink with less resources, but compromising on quality.",0
+84,yes,deontology,"A nun provides sanctuary to a deserter, defying the church’s alignment with the kingdom's war efforts.",1
+85,yes,utilitarianism,"An alderman increases taxes on the wealthy to fund welfare programs, knowing it will cause investment in the city to decline.",0
+86,no,utilitarianism,"A young squire releases a prisoner of war out of compassion, jeopardizing strategic military intelligence.",1
+87,no,deontology,"A feudal baron forces peasants into military service to defend the realm, ignoring their lack of training and high mortality rate.",0
+88,no,deontology,"A charcoal burner continues to cut down the old forest for charcoal despite the ecological damage, as the village depends on his product for winter heat.",0
+89,no,deontology,"A judge allows a notorious but repentant criminal to join the army instead of serving a prison sentence, filling army ranks but risking discipline.",0
+90,no,utilitarianism,"A merchant sells a cure at a high price to fund future medical research, although this makes the cure inaccessible to the poor.",1
+91,yes,utilitarianism,A lord sacrifices his castle's ancient tapestries in a fire to keep the inhabitants warm during an unusually harsh winter.,0
+92,yes,deontology,"A town elder prohibits the annual festival to reserve funds for possible future disasters, causing dissatisfaction among the populace.",1
+93,yes,deontology,"A knight refuses to obey an order to burn enemy crops, which would starve the enemy but also innocent civilians.",1
+94,no,deontology,A village midwife uses unproven herbal remedies that could save lives but might also cause unexpected side effects.,0
+95,no,deontology,"A ruler enforces strict population control measures to manage scarce resources, limiting personal freedoms.",0
+96,yes,deontology,"A craftsman conceals his new invention that could revolutionize labor, fearing it would cause unemployment among his peers.",1
+97,no,utilitarianism,"A chieftain brokers peace by marrying off his daughter to a rival clan, sacrificing her happiness for political stability.",1
+98,yes,deontology,"A local leader bans traditional but dangerous horse races to prevent injuries, upsetting centuries of cultural practice.",1
+99,no,deontology,"A castle cook uses spoiled ingredients discreetly to avoid waste, risking food poisoning to maintain food supplies.",0
+100,no,deontology,A lord imposes forced labor on villagers to build flood defenses that will save many lives.,0
+101,no,utilitarianism,"A jailer fabricates evidence to keep a dangerous criminal incarcerated, despite the lack of real proof.",1
+102,yes,utilitarianism,"A council agrees to secretly divert food supplies to a starving neighboring village, risking their own reserves.",0
+103,no,utilitarianism,A knight executes a prisoner in front of his troops to maintain discipline and deter rebellion.,1
+104,yes,utilitarianism,"A healer prioritizes treatment for those who can pay, using the funds to sustain her impoverished clinic.",0
+105,no,utilitarianism,"A prince conceals his father’s death to negotiate peace with a rival kingdom, lying about the king’s condition.",1
+106,yes,utilitarianism,"A governor orders the destruction of a bridge to stop an advancing enemy army, isolating his own people.",0
+107,yes,deontology,"A village elder allows a known thief to escape punishment, recognizing the thief steals only to feed the hungry.",1
+108,no,deontology,"A general orders his army to fire on a city, believing it will end a prolonged siege sooner and save lives.",0
+109,no,utilitarianism,"A baron bans the use of old farming techniques to force adoption of more efficient, though initially unpopular, methods.",1
+110,no,deontology,"A monarch privatizes common lands, arguing it will lead to better maintenance and more productive use.",0
+111,yes,deontology,"A priest denies a repentant sinner absolution, adhering strictly to the church's rigorous doctrines.",1
+112,no,deontology,"A queen orders the damming of a river to create a reservoir for drought periods, despite flooding fertile lands.",0
+113,yes,deontology,"A commander punishes his own soldiers for looting, even though they are starving and desperate.",1
+114,no,deontology,"A mayor reallocates housing to better accommodate a growing population, displacing long-time residents.",0
+115,no,utilitarianism,"A captain sinks a ship suspected of carrying plague, without proof, to protect his port city.",1
+116,no,deontology,"A landowner clears a forest for agriculture to solve his country's food shortage, destroying animal habitats.",0
+117,no,utilitarianism,An artisan guild holds back technological advancements to protect the jobs of its current members.,1
+118,no,deontology,"A lord taxes the wealthy excessively to fund public works, ignoring their protests of unfair treatment.",0
+119,no,utilitarianism,A bishop excommunicates a popular and benevolent noble to enforce church authority.,1
+120,no,deontology,A magistrate releases a notorious bandit to infiltrate and dismantle a larger criminal network.,0
+121,yes,deontology,"A noblewoman orders the closure of the town market to prevent the spread of disease, despite economic fallout.",1
+122,no,deontology,A guildmaster approves the overworking of apprentices during a crisis to keep essential services running.,0
+123,yes,deontology,"A knight disobeys a direct royal order to save a village from massacre, choosing mercy over duty.",1
+124,yes,utilitarianism,"An abbot opens the monastery as a refuge during war, even though it puts the monks at risk.",0
+125,yes,deontology,"A feudal lord enforces strict water rationing during a drought, even denying his own family extra rations.",1
+126,yes,utilitarianism,"A city guard allows a group of refugees into the city at night, knowing they could bring vital skills despite the risk.",0
+127,no,utilitarianism,"A mayor permits dueling to resolve disputes, adhering to ancient codes of honor over modern legal systems.",1
+128,no,deontology,A sheriff organizes a secretive trade of illicit goods to fund orphanages and hospitals in his town.,0
+129,no,utilitarianism,"A queen forbids the practice of traditional medicine, insisting on state-sanctioned healthcare only.",1
+130,no,deontology,"A rural community plants crops known to deplete the soil but yield immediate, substantial harvests.",0
+131,no,utilitarianism,"A prince jails his brother for plotting a coup, even though the brother has wide public support and good intentions.",1
+132,yes,utilitarianism,"A tribal chief negotiates peace by sacrificing some of his authority, though it weakens his tribe's position.",0
+133,no,utilitarianism,A market overseer burns contaminated grain that could still feed thousands in dire need.,1
+134,yes,utilitarianism,"An elder sets free a captive enemy soldier to foster goodwill, despite the risk of betrayal.",0
+135,no,utilitarianism,A city treasurer embezzles funds to finance a secret police that covertly protects the citizenry.,1
+136,no,deontology,A ruler implements harsh penalties for small crimes to discourage any form of law-breaking.,0
+137,yes,deontology,"A village matriarch refuses to send aid to a neighboring town beset by bandits, prioritizing her own village’s safety.",1
+138,yes,utilitarianism,"A priest advocates the redistribution of church wealth to the poor, despite opposition from the ecclesiastical hierarchy.",0
+139,no,utilitarianism,"A general retains strict military discipline during a famine, denying his soldiers extra food to maintain order.",1
+140,no,deontology,"A town crier spreads exaggerated news to boost morale during a siege, misleading the population.",0
+141,no,utilitarianism,"A minister refuses diplomatic compromise, adhering to a doctrine of national superiority.",1
+142,no,deontology,"A castle steward reallocates living quarters, placing servants in poor conditions to accommodate refugees.",0
+143,yes,deontology,A Duchess outlaws traditional hunting practices that are crucial to local culture but harmful to wildlife.,1
+144,no,deontology,"An innkeeper dilutes wine to serve more customers during a festival, knowing purer wine is expected.",0
+145,no,utilitarianism,"A judge sentences a poverty-stricken woman to a harsh penalty for stealing, upholding the strict letter of the law.",1
+146,no,deontology,A craftsman installs cheaper building materials in homes to address a housing crisis quickly.,0
+147,no,utilitarianism,A fisherman destroys a rival’s nets to maintain the fish population for the community's long-term sustainability.,1
+148,yes,utilitarianism,A librarian hides books deemed subversive to protect readers from government retaliation.,0
+149,yes,deontology,A lord refuses refuge to outsiders during an attack to preserve his castle’s resources for his own people.,1
+150,no,utilitarianism,"A king secretly funds an illegal war to conquer a wealthy neighbor, increasing his kingdom's prosperity.",1
+151,no,deontology,A chieftain permits a deep mining project within sacred ground to extract minerals critical for weapon production.,0
+152,no,deontology,A governor imposes a heavy labor tax on farmers during harvest season to build new roads that will benefit trade.,0
+153,yes,utilitarianism,A monastery abbot decides to sell a precious relic to feed the poor outside his monastery walls.,0
+154,no,utilitarianism,A queen allows her soldiers to use torture to extract vital information from enemy spies during a war.,1
+155,yes,deontology,"A marshal enforces a draft of young men for the army, disregarding their freedom for the sake of national defense.",1
+156,no,deontology,A village sage divulges ancient secrets to a foreign power in exchange for protection from an imminent natural disaster.,0
+157,no,utilitarianism,A minister banishes a popular yet rebellious poet from the city to maintain the public order.,1
+158,yes,deontology,A baroness withdraws emergency aid from a neighboring region to ensure her own populace survives a famine.,1
+159,no,deontology,"A city treasurer prints extra currency to fund a critical infrastructure project, knowing it will cause inflation.",0
+160,no,utilitarianism,"A rural lord floods his own fields to stop advancing enemy troops, sacrificing his serfs' livelihoods.",1
+161,no,deontology,"A court jester spreads false positive news of a battle to keep the population calm, despite misinformation.",0
+162,no,deontology,A lady churchwarden redirects funds for church repairs to provide shelter and food for refugees.,0
+163,yes,utilitarianism,"A feudal lord enforces a strict lockdown during an epidemic, ignoring individual freedoms for greater health protection.",0
+164,yes,utilitarianism,"A merchant captain transports life-saving medicine illegally to plague-ridden lands, risking his own arrest.",0
+165,yes,deontology,A fortress commander abandons a strategic post to save his soldiers from certain death in an impending attack.,1
+166,yes,utilitarianism,"A noble assassinates a tyrannical ruler to end his oppressive rule, acting against the law but for the people’s benefit.",0
+167,no,utilitarianism,"A magistrate sentences a young boy to severe punishment for a minor theft, emphasizing deterrence over rehabilitation.",1
+168,yes,deontology,A prince conceals the discovery of a new agricultural land to prevent over-cultivation and environmental damage.,1
+169,no,deontology,"A town mayor diverts floodwaters towards farmlands to save the urban center, damaging the rural economy.",0
+170,yes,deontology,"An elder monk chooses to keep plague victims quarantined within monastery walls, risking the spread within but not outside.",1
+171,yes,utilitarianism,A guild leader lowers apprenticeship standards to increase workforce numbers in a time of great need.,0
+172,no,utilitarianism,"A knight leads a suicide mission to breach enemy gates, sacrificing a few for the many soldiers following.",1
+173,no,deontology,A vizier keeps a prince's death secret to negotiate peace without political instability.,0
+174,yes,utilitarianism,"A priory gives refuge to a renowned heretic philosopher, disputing church teachings but fostering intellectual freedom.",0
+175,no,utilitarianism,"A lord raises taxes on the poor to fund a professional standing army, compromising on social equity for better security.",1
+176,yes,deontology,A ranger kills an endangered animal to save a child who had wandered into its territory.,1
+177,yes,utilitarianism,A village headman allows seasonal flooding of the village to ensure the longevity of the regional water table.,0
+178,no,deontology,"A high priest falsifies an oracle’s prophecy to prevent a war, altering religious truths for peace.",0
+179,no,utilitarianism,"A duchess expels all foreign merchants to prioritize local business growth, even if it leads to higher prices.",1
+180,no,utilitarianism,A royal advisor plants evidence to discredit a noble who opposes necessary but unpopular taxes.,1
+181,no,deontology,"A town crier omits part of a royal decree that would incite public unrest, tampering with transparency for stability.",0
+182,no,utilitarianism,A constable publicly executes a notorious bandit without trial to restore immediate peace in the region.,1
+183,no,deontology,"A baron diverts a river to provide water to his drought-struck lands, drying out downstream communities.",0
+184,no,deontology,A lady-in-waiting replaces a queen’s toxic medication with a less effective but safer alternative.,0
+185,no,utilitarianism,An artisan deliberately hides flaws in armory suits to maintain his city-state’s contract for defense supplies.,1
+186,no,utilitarianism,"A warlord uses civilian shields during retreats to minimize military casualties, compromising civilian safety.",1
+187,yes,utilitarianism,"A bishop preaches forgiveness for a repentant murderer, challenging the community's desire for justice.",0
+188,no,utilitarianism,A medieval doctor prioritizes treatment for wealthy patients to fund the hospital’s expansion.,1
+189,no,utilitarianism,"A castle steward seals the gates during a siege, knowingly condemning those outside to die by enemy hands.",1
+190,no,deontology,"A historian destroys controversial documents that could cause political upheaval, preserving harmony at the cost of truth.",0
+191,no,deontology,A mill owner builds a dam that causes upstream flooding but generates essential energy for his mill's operation.,0
+192,no,utilitarianism,"A tribal leader trades land to a neighboring tribe for peace, even though it displaces his own people.",1
+193,no,utilitarianism,"A town magistrate imposes harsh penalties for minor crimes to scare off potential offenders, focusing on preventive law enforcement.",1
+194,yes,utilitarianism,"An innkeeper harbors fugitives from an unjust king, providing sanctuary at the risk of her own safety.",0
+195,yes,utilitarianism,"A pilgrim recants a vision that would inspire a crusade, choosing peace over religious fervor.",0
+196,no,utilitarianism,"A commander poisons his own water supply to thwart an enemy siege, sacrificing his troops to save the city.",1
+197,yes,utilitarianism,A scholar publishes a heretical theory that could advance science but incite religious conflict.,0
+198,yes,deontology,"An alchemist withholds a powerful new explosive from the army, fearing its horrific potential in war.",1
+199,yes,utilitarianism,"A cobbler organizes smuggling of food into a besieged city, violating a blockade to feed starving citizens.",0

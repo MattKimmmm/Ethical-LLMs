@@ -36,9 +36,9 @@ def main():
     models.append("gpt-4-turbo")
     models.append("meta/llama-2-7b-chat")
     models.append("meta/llama-2-13b-chat")
-    # models.append("meta/llama-2-70b-chat")
+    models.append("meta/llama-2-70b-chat")
     models.append("meta/meta-llama-3-8b")
-    # models.append("meta/meta-llama-3-70b")
+    models.append("meta/meta-llama-3-70b")
 
     all_results = []
 
@@ -63,6 +63,18 @@ def main():
     # Save the results to a CSV file
     final_results.to_excel("../output/summary_results.xlsx", index=False)
     print("Aggregated results saved to summary_results.xlsx")
+
+    table = results_df.groupby('Model').sum().reset_index()
+    table['Utilitarian/Deontological Response Ratio'] = table['Utilitarian'] / table['Deontological']
+    table['Utilitarian Responses'] = table['Utilitarian']
+    table['Deontological Responses'] = table['Deontological']
+    table['Skip Responses'] = table['Skip']
+    table['Skipped Response Ratio'] = table['Skip'] / table['Total Responses']
+
+    final_results = table[['Model', 'Utilitarian Responses', 'Deontological Responses', 'Skip Responses', 'Utilitarian/Deontological Response Ratio', 'Skipped Response Ratio']]
+
+    final_results.to_excel("../output/summary_results_table.xlsx", index=False)
+    print("Aggregated results saved to summary_results_table.xlsx")
 
 
 if __name__ == "__main__":
